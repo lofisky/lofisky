@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on any interesting and developing projects
 - 📫 Contacts: <a href="https://linkedin.com/in/ezel-inan">LinkedIn</a> | <a href="mailto:inanezel@outlook.com">Email</a> | Or contact number 07703646000
 - 😄 Pronouns: She/Her
-- ⚡ Fun fact: I absolutely love Virtual Reality
+- ⚡ Fun fact: I absolutely love Virtual Reality!
 
 <!---
 lofisky/lofisky is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
