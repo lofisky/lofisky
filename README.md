@@ -2,7 +2,7 @@
 - 👀 I’m interested in Software Engineering
 - 🌱 I’m currently learning how to build production ready, scalable applications and improve my coding skills
 - 💞️ I’m looking to collaborate on any interesting and developing projects
-- 📫 Contacts: <a href="https://linkedin.com/in/ezel-inan">LinkedIn</a> | <a href="mailto:inanezel@outlook.com">Email</a> | Or contact number 07703646000
+- 📫 Contacts: <a href="https://linkedin.com/in/ezel-inan">LinkedIn</a> | <a href="mailto:inanezel@outlook.com">Email</a>
 - 😄 Pronouns: She/Her
 - ⚡ Fun fact: I absolutely love Virtual Reality!
 
